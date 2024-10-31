@@ -4,7 +4,7 @@ Group members: Brandon Mattes and Kyle Ramac
 
 Video Links: https://youtu.be/1TXjhwZM8XA, https://www.youtube.com/watch?v=xpBAVHNFl3s&ab_channel=KyleRamac
 
-To run this project please use Unreal Enginer version 5.4.4
+To run this project please use Unreal Engine version 5.4.4
 
 This project is an FPS game with 2 levels. The first level is designed as a maze and the second level is designed as a house. Both levels
 have a set number of targets that need to be destroyed in order to progress. There are hazards to avoid as you need to keep up your 
