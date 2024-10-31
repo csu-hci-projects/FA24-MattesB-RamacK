@@ -19,3 +19,7 @@ UI-adjacent tasks at the end to get level transitions/ finishing touches put ont
 
 For this project, we did not use many resources outside of class material. Some YouTube tutorials were used to assist with a few UI concepts
 but for the most part we just used the class lab videos and the textbook.
+
+As we are both online students working from different time zones, we weren't able to meet very often during this project. We met online once
+the weekend before the project was due (Sunday October 20th) to go over expectations and work assignments and this meeting is when we split
+up the tasks between level and UI design.
