@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5/Content/MyBlueprints/VRTarget.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5/Content/MyLevels/Level1.umap",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5/Content/MyLevels/Level1Test.umap",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5/Content/MyBlueprints/TargetTest.uasset",
+				"C:/Users/bmatt/Documents/Unreal Projects/CS310_BM_KR_Lab4_5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/bmatt/Documents/Unreal Projects/CS310_BM_KR_Lab4_5/Content/MyLevels/Level1.umap"
+			]
+		}
+	]
+}

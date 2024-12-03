@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bmatt/Documents/Unreal Projects/CS310_BM_KR_Lab4_5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/bmatt/Documents/Unreal Projects/CS310_BM_KR_Lab4_5/Content/MyLevels/Level1.umap",
+				"C:/Users/bmatt/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/bmatt/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyBlueprints/ammoPistol.uasset",
+				"C:/Users/bmatt/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyLevels/Level1.umap",
+				"C:/Users/bmatt/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/bmatt/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyBlueprints/IA_Reload_Right.uasset",
+				"C:/Users/bmatt/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyLevels/WinLevel.umap",
+				"C:/Users/bmatt/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyBlueprints/WinGrabbable.uasset",
+				"C:/Users/bmatt/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyBlueprints/UI/WinMenu.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5/Content/MyBlueprints/VRTarget.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5/Content/MyLevels/Level1.umap",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5/Content/MyLevels/Level1Test.umap",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5/Content/MyBlueprints/TargetTest.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyLevels/Level1.umap",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyBlueprints/Grabbable1.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyBlueprints/Grabbable2.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyBlueprints/Grabbable3.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyBlueprints/HitMaterial.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyBlueprints/VRTarget.uasset",
+				"C:/Users/ksram/Documents/GitHub/CS310-BM-KR-LAB4-5/CS310_BM_KR_Lab4_5 5.4/Content/MyBlueprints/UI/TargetCounterWidget.uasset"
+			]
+		}
+	]
+}
