@@ -5,7 +5,7 @@ Group members: Brandon Mattes and Kyle Ramac
 This repo contains both HW1 and HW2 projects. Please see respective folder for each project.
 
 Video Links (HW1): https://youtu.be/1TXjhwZM8XA, https://www.youtube.com/watch?v=xpBAVHNFl3s&ab_channel=KyleRamac
-Video Links (HW2):
+Video Links (HW2): https://youtu.be/W9AvlzAW23A
 
 To run this project please use Unreal Engine version 5.4.4
 
